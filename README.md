@@ -19,7 +19,7 @@ To set up the project locally, follow these steps:
 **Setting up the Project**
 
 - **Clone the repository**: 
- *"git clone https://github.com/01-BLUELOTUS/GruhaSeva.git"*  then *"cd GruhaSeva"*
+ *"https://github.com/Likhith-BlueLotus/GruhaSeva.git"*  then *"cd GruhaSeva"*
 
 - **Install dependencies**: *"npm install"*
 
